@@ -1,4 +1,4 @@
-package lezione4;
+package lezione04;
 
 public class FourthAttempFromQ extends Thread
 {

@@ -1,4 +1,4 @@
-package lezione7;
+package lezione07;
 
 public class DekkerNProcesses extends Thread
 {

@@ -10,6 +10,9 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+import lezione04.FourthAttempFromP;
+import lezione04.FourthAttempFromQ;
+
 public class TestCodice {
 
 	@Test

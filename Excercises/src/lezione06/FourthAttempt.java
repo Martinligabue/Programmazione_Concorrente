@@ -1,4 +1,4 @@
-package lezione6;
+package lezione06;
 
 class FourthAttempt extends Thread 
 {

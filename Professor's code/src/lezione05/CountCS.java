@@ -1,4 +1,4 @@
-package lezione5;
+package lezione05;
 
 public class CountCS extends Thread 
 {

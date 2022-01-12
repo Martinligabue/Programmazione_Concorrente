@@ -1,4 +1,4 @@
-package lezione3;
+package lezione03;
 
 class Count extends Thread {
     static volatile int n = 0;
